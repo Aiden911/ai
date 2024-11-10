@@ -15,7 +15,7 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 github pages
-git push -f https://github.com/你的GITHUB帳號/ai.git master:gh-pages
+git push -f https://github.com/aiden911/ai.git master:gh-pages
 # 例如：git push -f https://github.com/Appy/ai.git master:gh-pages
 
 cd -
