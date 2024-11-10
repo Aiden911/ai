@@ -10,7 +10,7 @@
       <div v-if="isOpen" class="chat-container">
         <!-- 標題欄 -->
         <div class="chat-header">
-          <span>AI 助理</span>
+          <span> 客服</span>
           <button class="close-button" @click="toggleChat">×</button>
         </div>
 
