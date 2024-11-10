@@ -14,8 +14,8 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 部署到 github.io
-git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
-# 範例：git push -f https://github.com/hsiangfeng/shopping-cart.git master:gh-pages
+# 部署到 github pages
+git push -f https://github.com/你的GITHUB帳號/ai.git master:gh-pages
+# 例如：git push -f https://github.com/Appy/ai.git master:gh-pages
 
 cd -
